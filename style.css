@@ -9,8 +9,16 @@
   #about h1 {
     margin: 25px;
   }
+
+  #projects h1 {
+    margin: 25px;
+   text-align: center;
+   padding: 40px;
+  
+  }
   section {
     padding-bottom: 40px;
+   
   }
   .card .card-header {
     cursor: pointer;
